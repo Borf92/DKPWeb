@@ -1,0 +1,9 @@
+D:\Repos\DKPWeb\DKPDataBase\bin\Debug\DKPDataBase.dacpac
+D:\Repos\DKPWeb\DKPDataBase\bin\Debug\DKPDataBase.dll
+D:\Repos\DKPWeb\DKPDataBase\bin\Debug\DKPDataBase.pdb
+D:\Repos\DKPWeb\DKPDataBase\obj\Debug\Model.xml
+D:\Repos\DKPWeb\DKPDataBase\obj\Debug\refactor.xml
+D:\Repos\DKPWeb\DKPDataBase\obj\Debug\postdeploy.sql
+D:\Repos\DKPWeb\DKPDataBase\obj\Debug\predeploy.sql
+D:\Repos\DKPWeb\DKPDataBase\obj\Debug\DKPDataBase.dll
+D:\Repos\DKPWeb\DKPDataBase\obj\Debug\DKPDataBase.pdb

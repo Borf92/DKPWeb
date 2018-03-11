@@ -1,0 +1,12 @@
+D:\Repos\DKPWeb\DKPDAL\bin\Debug\DKPDAL.dll.config
+D:\Repos\DKPWeb\DKPDAL\bin\Debug\DKPDAL.dll
+D:\Repos\DKPWeb\DKPDAL\bin\Debug\DKPDAL.pdb
+D:\Repos\DKPWeb\DKPDAL\bin\Debug\EntityFramework.dll
+D:\Repos\DKPWeb\DKPDAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repos\DKPWeb\DKPDAL\bin\Debug\EntityFramework.xml
+D:\Repos\DKPWeb\DKPDAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repos\DKPWeb\DKPDAL\obj\Debug\DKPDAL.csproj.CoreCompileInputs.cache
+D:\Repos\DKPWeb\DKPDAL\obj\Debug\DKPDAL.dll
+D:\Repos\DKPWeb\DKPDAL\obj\Debug\DKPDAL.pdb
+D:\Repos\DKPWeb\DKPDAL\bin\Debug\Newtonsoft.Json.dll
+D:\Repos\DKPWeb\DKPDAL\bin\Debug\Newtonsoft.Json.xml

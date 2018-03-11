@@ -1,0 +1,12 @@
+D:\Repos\DKPWeb\DKPCore\bin\Debug\DKPCore.dll
+D:\Repos\DKPWeb\DKPCore\bin\Debug\DKPCore.pdb
+D:\Repos\DKPWeb\DKPCore\obj\Debug\DKPCore.csprojResolveAssemblyReference.cache
+D:\Repos\DKPWeb\DKPCore\obj\Debug\DKPCore.csproj.CoreCompileInputs.cache
+D:\Repos\DKPWeb\DKPCore\obj\Debug\DKPCore.dll
+D:\Repos\DKPWeb\DKPCore\obj\Debug\DKPCore.pdb
+D:\Repos\DKPWeb\DKPCore\bin\Debug\DKPCore.dll.config
+D:\Repos\DKPWeb\DKPCore\bin\Debug\DKPDAL.dll
+D:\Repos\DKPWeb\DKPCore\bin\Debug\EntityFramework.dll
+D:\Repos\DKPWeb\DKPCore\bin\Debug\DKPDAL.pdb
+D:\Repos\DKPWeb\DKPCore\bin\Debug\DKPDAL.dll.config
+D:\Repos\DKPWeb\DKPCore\bin\Debug\EntityFramework.xml
